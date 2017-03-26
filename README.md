@@ -6,3 +6,4 @@ It userful if you have computer that cannot be offline in network for all time u
 
 <h2>Requirements:</h2>
 .NET Framework 2.0 (Preinstalled on most modern Windows OS)
+WiX Tools/Visual Studio WiX Plugins (for building installer)
