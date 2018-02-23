@@ -33,7 +33,7 @@ namespace NetworkWatchDog
 
         // Thread
         private System.Threading.Thread workThread;
-        
+
         // Thread process parameter
         public static bool isRunThread = true;
 
